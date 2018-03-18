@@ -1,0 +1,20 @@
+body {
+	background-color: #eff0f2;
+}
+
+img {
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+}
+
+p {
+	font-family: Nanum Brush Script;
+	margin-left: 1.66%;
+	font-size: 40px;
+	font-weight: 300;
+	text-transform: uppercase;
+	border-bottom: 2px solid #d5dce8;
+	width: 30%;
+	padding-bottom: 10px;
+}
